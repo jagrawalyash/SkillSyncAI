@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SkillSyncAI/static/css/main.e6c13ad2.css",
+    "main.js": "/SkillSyncAI/static/js/main.e72fd8d0.js",
+    "static/js/453.dbdc9f10.chunk.js": "/SkillSyncAI/static/js/453.dbdc9f10.chunk.js",
+    "index.html": "/SkillSyncAI/index.html",
+    "main.e6c13ad2.css.map": "/SkillSyncAI/static/css/main.e6c13ad2.css.map",
+    "main.e72fd8d0.js.map": "/SkillSyncAI/static/js/main.e72fd8d0.js.map",
+    "453.dbdc9f10.chunk.js.map": "/SkillSyncAI/static/js/453.dbdc9f10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e72fd8d0.js"
+  ]
+}
